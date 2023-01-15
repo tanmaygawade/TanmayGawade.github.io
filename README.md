@@ -1,4 +1,4 @@
-# geetamakadi123.github.io
+# https://tanmaygawade.github.io/
 
 # MyPortfolio
 Digital representation of my best works including my skills, some best projects out of those Which i have done in construct week of Masai School and some of my personal details.
